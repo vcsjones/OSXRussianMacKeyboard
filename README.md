@@ -8,6 +8,6 @@ This keyboard layout restores the ё character to under the escape key. On Windo
 Installing
 ===
 
-Installing is fairly trivial. Download the .keylayout and .icns file, and copy them into ~/Library/Keyboard Layouts.
+Installing is fairly trivial. [Download](https://github.com/vcsjones/OSXRussianMacKeyboard/archive/v1.0.zip) the .keylayout and .icns file, and copy them into ~/Library/Keyboard Layouts.
 
 Logout and Login from OSX, and this Keyboard layout will be available as "Russian - PC BootCamp" in the Language Input options.
